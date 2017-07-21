@@ -1,0 +1,25 @@
+  `user_event_id` 
+  `user_event_name` 
+  `user_event_lastName` 
+  `user_event_email` 
+  `user_event_pass`
+  `domicilio` 
+  `edad` 
+  `genero` 
+  `escolaridad` 
+  `disponibilidad` 
+  `experiencia` 
+  `detalles` 
+  `ingles` 
+  `cel` 
+  `puesto` 
+  `rfc` 
+  `curp` 
+  `nacimiento` 
+  `civil`
+  `nns` 
+  `cedula` 
+  `escuela` 
+  `municipio` 
+  ` ` 
+  `user_event_timestamp` 
