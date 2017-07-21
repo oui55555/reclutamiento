@@ -29,3 +29,4 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
 		<link rel="stylesheet" href="<? echo base_url(); ?>css/jquery-ui.min.css"  />
 		<link rel="stylesheet" href="<? echo base_url(); ?>css/estilos.css"  />
+				<link rel="stylesheet" href="<? echo base_url(); ?>css/custom.css"  />
