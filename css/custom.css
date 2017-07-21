@@ -308,8 +308,8 @@ ul.alert-dropdown {
     border-radius: 0px !important;
 }
 
-#page-wrapper {
-    background: url("../assets/bg-pattern.png"), #FAFAFA !important;
+.main_content {
+    background: url("../css/images/bg-pattern.png"), #FAFAFA !important;
 }
 
 .row .container-fluid h1 h2 h3 div section ul label {
