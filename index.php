@@ -269,8 +269,8 @@ switch (ENVIRONMENT)
 		{
 			$view_folder = APPPATH.'views';
 		}
-	}
- 
+	} 
+
 	if (($_temp = realpath($view_folder)) !== FALSE)
 	{
 		$view_folder = $_temp.DIRECTORY_SEPARATOR;
