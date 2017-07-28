@@ -17,7 +17,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="#"><img src="css/images/bhr-logo.png"></a>
+			<a class="navbar-brand" href="#"><img src="<?php echo base_url('css/images/logo.png'); ?>"></a>
 	</div>
 
 <ul class="nav navbar-right top-nav">

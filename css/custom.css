@@ -315,6 +315,7 @@ ul.alert-dropdown {
 
 .row .container-fluid h1 h2 h3 div section ul label {
     color: #c5c5c5 !important;
+    
 }
 
 .top-nav>.open>a:focus {
@@ -328,4 +329,12 @@ ul.alert-dropdown {
 
 .p_15 h1{
   font-size: 25px;
+}
+
+.navbar-brand img{
+  height: 35px !important;
+}
+
+.fon_oscuro {
+  background-color: #29283F !important;
 }
