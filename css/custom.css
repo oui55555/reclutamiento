@@ -309,6 +309,7 @@ ul.alert-dropdown {
 }
 
 .main_content {
+
     background: url("../css/images/bg-pattern.png"), #FAFAFA !important;
 }
 
@@ -319,4 +320,12 @@ ul.alert-dropdown {
 .top-nav>.open>a:focus {
     color: #fff;
     background-color: #00a29c !important;
+}
+
+.menuAdmin  {
+    background-color: #29283F;
+}
+
+.p_15 h1{
+  font-size: 25px;
 }
